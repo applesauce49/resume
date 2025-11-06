@@ -1,0 +1,11 @@
+<--start-->
+## Security Engineer
+*Cloud Services Group, Intel Services Devision*  
+*2014 – 2016*  
+
+### Key Achievements
+
+- **Developed and delivered security training**, *Introduction to Security Principles and Cryptography*, to ISD TPM staff and summer interns—raising organization-wide cryptography literacy and security awareness.  
+- **Led SGX Backend Attestation code review efforts**, coordinating a sub-team that identified and reported over 50 potential security defects to TCS Poland for remediation.  
+- **Enhanced binary verification mechanisms** in the Software Asset Manager client by implementing WinVerifyTrust digital signature validation and certificate pinning to strengthen software integrity checks.  
+- **Refactored the Windows-specific Software Asset Manager SDK** for full cross-platform compatibility with POSIX systems and contributed to automated cross-platform acceptance testing.  
