@@ -1,0 +1,14 @@
+<--start-->
+## Software Security Engineering, PSD  
+**PSEC Security Engineer**  
+*2017 – 2019*  
+
+### Key Achievements
+
+- **Established foundational team infrastructure** by developing an internal wiki, engagement portal, and Security Best-Known-Methods (BKM) library to standardize practices and improve team efficiency.  
+- **Authored secure development guidelines** covering compiler settings, coding standards, and defensive practices—raising product security readiness across multiple engineering teams.  
+- **Ensured security integrity of major SSS releases**, including the CCSP TDT Side Channel Detection kernel driver, Secure Device Onboarding, and the Intel Crypto API Toolkit for SGX.  
+- **Evangelized secure development practices** through technical talks on vulnerability discovery and mitigation, widely adopted across the Software and Services Group (SSG).  
+- **Coordinated cross-geo integration for the Box Creek project** (U.S., Israel, PRC), unifying CI pipelines and consolidating three repositories into a single cohesive codebase.  
+- **Led development of a security testing framework** for the Box Creek SDK—an extendable system validating core security objectives and expediting Secure Development Lifecycle (SDL) completion.  
+- **Mentored a University of Michigan intern** on fuzzing methodologies, providing design and technical guidance that culminated in a comparative evaluation framework and published results.  

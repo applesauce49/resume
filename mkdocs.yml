@@ -1,0 +1,40 @@
+site_name: Michael Beale Resume
+
+theme:
+  name: material
+  font: false
+
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+
+copyright: 2025 - Michael Beale
+
+nav:
+  - Home: 'index.md'
+  - About Me: 'about.md'
+  - Work History:
+      - Intel Corporation: 'workhistory/Intel Corporation.md'
+      - Co-Operations: 'workhistory/co-operations/co-operations.md'
+      - Attensa: 'workhistory/attensa/attensa.md'
+      - Inspiration Software: 'workhistory/inspiration/inspiration.md'
+      - Symantec Corporation: 'workhistory/symantec/symantec.md'
+# docs_dir: docs
+# site_dir: site
+# nav:
+#   - Home: 'index.md'
+#   - About Me: 'about.md'
+#   - Work History: 'workhistory.md'
+#   - Intel Corporation: 'workhistory/intel/index.md'
+# #   - About Me: 'about.md'
+# #   - Work History: 'work_history.md'
+# #     - Intel Corporation: 'work_history/intel'
+# #   - Projects: 'projects.md'
+# #   - Contact: 'contact.md'
+
+plugins:
+  - include-markdown
