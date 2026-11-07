@@ -1,12 +1,16 @@
-# Professional Summary
-- Accomplished software engineer and technology leader with 20+ years of experience delivering secure, high-impact solutions across accessibility, AI, and enterprise systems.  
-- Proven track record guiding modernization efforts from legacy WinForms/.NET Framework to cross-platform .NET 8+, Python, and full-stack JavaScript architectures.  
-- Expert in secure software lifecycle practices, open-source governance, and compliance automation—translating complex standards into practical workflows.  
-- Experienced in full-stack design and implementation, including .NET, C#, Python, React, Node.js, and GraphQL integrations with cloud-native infrastructure.  
-- Leader in UI/UX modernization and accessibility, combining technical precision with user-centered design principles.  
-- Skilled at building and mentoring cross-functional teams, fostering collaboration between research, security, and product development groups.  
-- Adept at automating DevSecOps pipelines, CI/CD workflows, and software signing systems to ensure reliability and audit readiness.  
-- Passionate about innovation at the intersection of AI, open source, and human-computer interaction.  
+# Michael Beale
 
-# Skills
+I’m a software engineer and technical lead with 20+ years of experience across software security, research, and accessibility. At Intel Labs, I turned security, open-source, and responsible AI requirements into steps researchers could follow to release software and AI models. I’ve also modernized development tools and accessibility software, making them easier to test, maintain, and release.
 
+## Selected accomplishments
+
+- Redesigned Intel Labs’ software compliance workflow, reducing release timelines from weeks to hours.
+- Helped Intel publish its first public multimodal AI model by coordinating release requirements across Research, Legal, and executive stakeholders.
+- Reworked the Adaptive Contextual Aware Toolkit (ACAT), raising unit-test coverage from 0% to 85% and helping ship its first feature release in two years.
+
+## Technical expertise
+
+- **Software engineering** — C#, .NET, Python, JavaScript/TypeScript, React, Node.js, GraphQL, and cross-platform desktop development.
+- **Security and compliance** — Secure development, threat modeling, vulnerability analysis, open-source licensing, software bills of materials, and responsible AI governance.
+- **Build and release automation** — CI/CD, GitHub Actions, cross-platform builds, automated testing, packaging, and artifact signing.
+- **Research and accessibility** — AI model release, dataset documentation, assistive technology, and accessible desktop and web interfaces.

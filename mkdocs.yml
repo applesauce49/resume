@@ -42,4 +42,6 @@ nav:
 # #   - Contact: 'contact.md'
 
 plugins:
+  - search
   - include-markdown
+  - print-site
