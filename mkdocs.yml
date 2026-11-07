@@ -22,24 +22,13 @@ copyright: 2025 - Michael Beale
 nav:
   - Home: 'index.md'
   - About Me: 'about.md'
+  - Contact: 'contact.md'
   - Work History:
       - Intel Corporation<br><em>2011 to Present</em>: 'workhistory/Intel Corporation.md'
       - Co-Operations<br><em>2009 to 2011</em>: 'workhistory/co-operations/co-operations.md'
       - Attensa<br><em>2004 to 2009</em>: 'workhistory/attensa/attensa.md'
       - Inspiration Software<br><em>1998 to 2004</em>: 'workhistory/inspiration/inspiration.md'
       - Symantec Corporation<br><em>1995 to 1998</em>: 'workhistory/symantec/symantec.md'
-# docs_dir: docs
-# site_dir: site
-# nav:
-#   - Home: 'index.md'
-#   - About Me: 'about.md'
-#   - Work History: 'workhistory.md'
-#   - Intel Corporation: 'workhistory/intel/index.md'
-# #   - About Me: 'about.md'
-# #   - Work History: 'work_history.md'
-# #     - Intel Corporation: 'work_history/intel'
-# #   - Projects: 'projects.md'
-# #   - Contact: 'contact.md'
 
 plugins:
   - search
